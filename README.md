@@ -18,14 +18,6 @@ VIBE is an open-source web platform for benchmarking vision models in gesture-ba
 
 Visit [VIBE Platform] to start using the web interface.
 
-For local development:
-
-```bash
-git clone https://github.com/mines-paris/vibe.git
-cd vibe
-docker-compose up
-```
-
 ## 📊 Supported Models
 
 Currently supported vision models include:
@@ -45,27 +37,6 @@ For local deployment:
 - Docker and Docker Compose
 - 16GB RAM minimum
 
-## 📖 Documentation
-
-- [User Guide](docs/user-guide.md)
-- [API Documentation](docs/api.md)
-- [Model Integration Guide](docs/model-integration.md)
-- [Contributing Guidelines](CONTRIBUTING.md)
-
-## 📝 Citation
-
-If you use VIBE in your research, please cite:
-
-```bibtex
-@inproceedings{el2025vibe,
-  title={VIBE: Plateforme Open-source de Benchmark des Modèles de Vision pour l'Interaction Gestuelle},
-  author={El Idrissi Dafali, Rayan and Glushkova, Alina},
-  booktitle={IHM '25: 26e Conférence Francophone sur l'Interaction Humain-Machine},
-  year={2025},
-  publisher={ACM}
-}
-```
-
 ## 🤝 Contributing
 
 We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
@@ -74,17 +45,3 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👥 Team
-
-- Rayan El Idrissi Dafali (Mines Paris – PSL)
-- Alina Glushkova (Mines Paris – PSL)
-
-## 📬 Contact
-
-For questions and support:
-- 📧 Email: vibe@minesparis.psl.eu
-- 💬 [Discord Community](https://discord.gg/vibe-community)
-- 🐦 Twitter: [@VIBE_Platform](https://twitter.com/VIBE_Platform)
-
----
-Made with ❤️ at [Centre de Robotique, Mines Paris – PSL](https://www.minesparis.psl.eu/) 
